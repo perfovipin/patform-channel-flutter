@@ -1,0 +1,9 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/platformchannel/BuildConfig.java
+ com.example.platformchannel.BuildConfig
+com/example/platformchannel/MainActivity.java
+ com.example.platformchannel.MainActivity
+ com.example.platformchannel.MainActivity$1
+ com.example.platformchannel.MainActivity$1$1
+ com.example.platformchannel.MainActivity$2
